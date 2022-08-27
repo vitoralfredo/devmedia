@@ -1,0 +1,55 @@
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Tahoma;
+}
+.logo-padaria{
+    width: 200px;
+}
+a{
+    margin: 0 10px;
+    color: #542f0c;
+
+}
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid orange;
+}
+h2{
+    margin-top: 10px;
+    font-weight: normal;
+    color: orange;
+}
+.imagem-banner{
+    width: 700px;
+}
+.secao-destaque{
+    color: white;
+    background-color: orange;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.secao-destaque p{
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.secao-destaque h3{
+    font-size: 24px;
+}
+.secao-destaque h4{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.secao-destaque img{
+    width: 400px;
+    margin-bottom: 15px;
+}
+span{
+    font-weight: bold;
+}
