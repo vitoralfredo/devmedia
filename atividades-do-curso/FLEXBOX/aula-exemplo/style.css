@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+
+.container {
+    background-color: #FF5722;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.item {
+    background-color: #0000ff;
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.item1{
+    height: 100px;
+    width: 100px;
+}
+
+.item2{
+    height: 50px;
+    width: 150px;
+}
+
+.item3{
+    height: 100px;
+    width: 200px;
+}
+
+.item4{
+    height: 150px;
+    width: 250px;
+}
